@@ -3,4 +3,6 @@ scipy
 streamlit
 altair
 plotly
-clear
+numpy
+matplotlib
+seaborn
